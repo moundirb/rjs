@@ -15,7 +15,7 @@ export const UserProfileCard = () => {
         <div className="profile-description">
         is one of the primary antagonists of the Jujutsu Kaisen series. He is an unregistered special grade cursed spirit allied with Pseudo-Geto. He is also the leader of his own group, consisting of Jogo, Hanami, and Dagon. His group's ultimate goal is the eradication of humanity and ultimately replacing the population with cursed spirits.
         </div>
-        <div className="profile-button"><a href="mailto:user@email.com">Contact Me</a>
+        <div className="profile-button"><a href="mailto:mahito@email.com">Contact Him</a>
           
         </div>
       </div>
