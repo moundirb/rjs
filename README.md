@@ -20,4 +20,4 @@ The `UserProfileCard` component displays a profile card with the following detai
 
 ## Screenshot
 
-![Screenshot](screenshot/rjs-profile-card)
+![Screenshot](screenshot/rjs-profile-card.png)
